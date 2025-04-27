@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #fffbde;
+    border: 5px solid #d3c880;
+}
+
+h1{
+    text-align: center;
+    font-weight: lighter;
+    color: rgb(0, 0, 0);
+    font-family: 'Brush Script MT', cursive;
+    font-size: 100px;
+}
+
+a{
+    display: block;
+    text-align: center;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 30px;
+    text-decoration: none;
+}
